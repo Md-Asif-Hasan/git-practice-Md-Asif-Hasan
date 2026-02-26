@@ -8,3 +8,4 @@ print(f"Current time is: {datetime.now()}")
 
 print(utils.add(5, 5)) 
 print(utils.sub(10, 5))
+
